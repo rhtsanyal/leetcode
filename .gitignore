@@ -1,2 +1,3 @@
-AmazonOA/venv/Lib/
-AmazonOA/venv/Scripts/
+*/venv/
+.idea/
+*/.idea/
